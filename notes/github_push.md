@@ -11,8 +11,10 @@ git push -u origin main
 ## …or push an existing repository from the command line
 git add .
 git commit -m "github commit"
-push origin master
+git push origin main
 
-git remote add origin https://github.com/gahasushant07/python-1.git
-git branch -M main
-git push -u origin main
+--------------------------------
+Whenever you make changes:
+git add .
+git commit -m "your message"
+git push
