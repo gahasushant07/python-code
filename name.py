@@ -1,0 +1,6 @@
+name = input("Enter Your Name:")
+age = int(input("Enter your age:" ))
+Location = input("Enter your location:")
+print("Hello", name, ", How are You?")
+print("You are", age, "years old and you live in", Location)
+print("You will be", age+1, "years old next year.")
